@@ -1,0 +1,18 @@
+{
+  "currency": "\u20b9",
+  "contact": "Telegram: @tanmayjain2015",
+  "plans": [
+    {
+      "name": "Free MA gugs",
+      "duration": "1 months",
+      "price": "Free",
+      "features": "1 file run, 512MB RAM, Real-time logs"
+    },
+    {
+      "name": "Ultra Premium",
+      "duration": "Life time",
+      "price": "59",
+      "features": "All feathers"
+    }
+  ]
+}
